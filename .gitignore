@@ -1,3 +1,4 @@
+build/
 node_modules/
 cartridges/app_storefront_base/cartridge/static/default/css/
 cartridges/app_storefront_base/cartridge/static/default/js/
