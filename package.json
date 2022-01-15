@@ -82,7 +82,7 @@
     "sass-loader": "^8.0.2",
     "selenium-standalone": "^6.17.0",
     "sgmf-scripts": "^2.4.0",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "should": "^13.2.3",
     "sinon": "^9.0.1",
     "style-loader": "^1.1.3",
